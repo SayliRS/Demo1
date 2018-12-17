@@ -19,7 +19,7 @@ public class Login implements Serializable{
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	@Column(name = "custId")
-	private Long custId;	
+	private Long custId;	// update3
 	
 	@Column(name = "userName")
 	private String userName;
