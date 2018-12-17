@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="db_payroll" match-name="advance_salary"/>
+  <table-filter match-catalog="db_payroll" match-name="allowance_and_deduction"/>
+  <table-filter match-catalog="db_payroll" match-name="attendance_main"/>
+  <table-filter match-catalog="db_payroll" match-name="attendance_master"/>
+  <table-filter match-catalog="db_payroll" match-name="c_off_management"/>
+  <table-filter match-catalog="db_payroll" match-name="employee_leave"/>
+  <table-filter match-catalog="db_payroll" match-name="employee_master"/>
+  <table-filter match-catalog="db_payroll" match-name="id_master"/>
+  <table-filter match-catalog="db_payroll" match-name="leave_type_setting"/>
+  <table-filter match-catalog="db_payroll" match-name="master_company"/>
+  <table-filter match-catalog="db_payroll" match-name="master_organization"/>
+  <table-filter match-catalog="db_payroll" match-name="master_plant"/>
+  <table-filter match-catalog="db_payroll" match-name="master_priveleges_modules"/>
+  <table-filter match-catalog="db_payroll" match-name="master_user"/>
+  <table-filter match-catalog="db_payroll" match-name="master_user_priveleges"/>
+  <table-filter match-catalog="db_payroll" match-name="sal_slip_master"/>
+  <table-filter match-catalog="db_payroll" match-name="salary_slip_casual_emp"/>
+  <table-filter match-catalog="db_payroll" match-name="setting_abbreviation"/>
+  <table-filter match-catalog="db_payroll" match-name="setting_holidays"/>
+  <table-filter match-catalog="db_payroll" match-name="setting_late_warning"/>
+  <table-filter match-catalog="db_payroll" match-name="setting_leave_type"/>
+  <table-filter match-catalog="db_payroll" match-name="setting_lwf"/>
+  <table-filter match-catalog="db_payroll" match-name="setting_overtime"/>
+  <table-filter match-catalog="db_payroll" match-name="setting_pfobs"/>
+  <table-filter match-catalog="db_payroll" match-name="setting_prof_tax"/>
+  <table-filter match-catalog="db_payroll" match-name="setting_rules"/>
+  <table-filter match-catalog="db_payroll" match-name="setting_shift_type"/>
+  <table-filter match-catalog="db_payroll" match-name="setting_weekoff"/>
+  <table-filter match-catalog="db_payroll" match-name="setting_yearlybonus"/>
+  <table-filter match-catalog="db_payroll" match-name="shift_allocation"/>
+  <table-filter match-catalog="db_payroll" match-name="staff_late_count"/>
+  <table-filter match-catalog="db_payroll" match-name="sv_client_master"/>
+  <table-filter match-catalog="db_payroll" match-name="sv_comments"/>
+  <table-filter match-catalog="db_payroll" match-name="sv_meeting_attendees"/>
+  <table-filter match-catalog="db_payroll" match-name="sv_meeting_master"/>
+  <table-filter match-catalog="db_payroll" match-name="sv_project_attachment"/>
+  <table-filter match-catalog="db_payroll" match-name="sv_project_level"/>
+  <table-filter match-catalog="db_payroll" match-name="sv_project_master"/>
+  <table-filter match-catalog="db_payroll" match-name="sv_project_team_member"/>
+  <table-filter match-catalog="db_payroll" match-name="sv_query_log"/>
+  <table-filter match-catalog="db_payroll" match-name="sv_task_assignemp"/>
+  <table-filter match-catalog="db_payroll" match-name="sv_task_master"/>
+  <table-filter match-catalog="db_payroll" match-name="sv_worksheet"/>
+  <table-filter match-catalog="db_payroll" match-name="user_action_rel"/>
+  <table-filter match-catalog="db_payroll" match-name="util_department"/>
+  <table-filter match-catalog="db_payroll" match-name="util_designation"/>
+</hibernate-reverse-engineering>
