@@ -41,6 +41,6 @@ public class CustInfoController {
 	
 	@RequestMapping(method = RequestMethod.GET)
 	public String sayHello() {
-		return "welcome";
+		return "welcome"; // update1
 	}
 }
