@@ -27,7 +27,7 @@ import javax.persistence.Version;
 @Table(name = "master_company", catalog = "db_payroll", uniqueConstraints = @UniqueConstraint(columnNames = "CompanyName"))
 public class MasterCompany implements java.io.Serializable {
 
-	private Integer companyId;
+	private Integer companyId; // update 19.12_01
 	private Date timeStamp;
 	private MasterOrganization masterOrganization;
 	private MasterUser masterUser;

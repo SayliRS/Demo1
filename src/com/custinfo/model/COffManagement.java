@@ -22,7 +22,7 @@ import javax.persistence.Version;
 		"EmpId", "COffDate" }))
 public class COffManagement implements java.io.Serializable {
 
-	private Long coffId;
+	private Long coffId; // update 19.12_02
 	private Date timeStamp;
 	private Long empId;
 	private Double coff;
