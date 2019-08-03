@@ -43,8 +43,6 @@ public class CustInfoController {
 	public String sayHello() {
 		// Commit from module_test branch
 		return "welcome"; // update1
-		
-		//..
 	}
 }
 
