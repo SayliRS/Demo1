@@ -44,6 +44,9 @@ public class CustInfoController {
 		// Commit from module_test branch
 		
 		// test 1 
+
+		//test 2
+
 		return "welcome"; // update1
 	}
 }
