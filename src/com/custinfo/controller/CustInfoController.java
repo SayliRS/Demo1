@@ -42,11 +42,7 @@ public class CustInfoController {
 	@RequestMapping(method = RequestMethod.GET)
 	public String sayHello() {
 		// Commit from module_test branch
-		
-		// test 1 
-
-		//test 2
-
+		//merge origin t1
 		return "welcome"; // update1
 	}
 }
